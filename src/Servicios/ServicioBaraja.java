@@ -62,7 +62,7 @@ public class ServicioBaraja {
              aux.add(siguienteCarta(b));
             }
             
-        }else System.out.println("Solicto mas cartas de las que quedan");
+        }else System.out.println("Solicito mas cartas de las que quedan");
         return aux;
     }
     public void cartasMonton(Baraja b){
